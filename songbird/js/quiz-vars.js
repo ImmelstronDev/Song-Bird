@@ -1,0 +1,75 @@
+export default {
+    HIDDEN: "hidden", 
+
+    QUIZ_CONTAINER: "quiz-container",
+    QUIZ_CONTENT: "quiz-content",
+    QUIZ_ANSWER_CONTAINER: 'quiz-answer-container',
+    QUIZ_ANSWER_LEFT: 'quiz-answer-left',
+    QUIZ_ANSWER_RIGHT: 'quiz-answer-right',
+
+
+    LEVEL_PANEL_CONTAINER: "level-panel-container",
+    LEVEL_PANEL: "level-panel",
+    LEVEL_PANEL_ITEM_CONTAINER: "level-panel-item-container",
+    LEVEL_PANEL_ITEM: "level-panel-item",
+
+    ANSWER_PANEL: "answer-panel",
+    ANSER_PANEL_CONTTAINER: "answer-panel-container",
+    ANSWER_BTN: "answer-btn",
+    ANSWER_PANEL_SOUND_CORRECT: "answer-panel-correct-sound",
+    ANSWER_PANEL_SOUND_INCORRECT: "answer-panel-incorrect-sound",
+
+    DESC_PLACEHOLDER_PANEL_ITEM: "desc-placeholder-panel-item",
+    DESC_PLACEHOLDER_PANEL_CONTAINER: 'desc-placeholder-panel-container',
+    DESC_PLACEHOLDER_PANEL: 'desc-placeholder-panel',
+
+    QUESTION_PANEL_CONTAINER: "question-panel-container",
+    QUESTION_PANEL: "question-panel",
+    QUESTION_PANEL_LEFT: "question-panel-left",
+    QUESTION_PANEL_RIGHT: "question-panel-right",
+    QUESTION_PANEL_IMG_CONTAINER: "question-panel-img-container",
+    QUESTION_PANEL_IMG: "question-panel-img",
+    QUESTION_PANEL_NAME_CONTAINER: "question-panel-name-container",
+    QUESTION_PANEL_NAME: "question-panel-name",
+    QUESTION_PANEL_AUDIO_CONTAINER: "question-panel-audio-container",
+    QUESTION_PANEL_AUDIO: "question-panel-audio",
+
+
+    DESC_PANEL_CONTAINER: "desc-panel-container",
+    DESC_PANEL: "desc-panel",
+    DESC_PANEL_TOP: "desc-panel-top",
+    DESC_PANEL_BOTTOM: "desc-panel-bottom",
+    DESC_PANEL_RIGHT_CONTAINER: "desc-panel-right-container",
+    DESC_PANEL_LEFT_CONTAINER: "desc-panel-left-container",
+    DESC_PANEL_IMG_CONTAINER: "desc-panel-img-coontainer",
+    DESC_PANEL_IMG: "desc-panel-img",
+    DESC_PANEL_NAME_CONTAINER: "desc-panel-name-container",
+    DESC_PANEL_NAME: "desc-panel-name",
+    DESC_PANEL_ABBR_CONTAINER: "desc-panel-abbr-container",
+    DESC_PANEL_ABBR: "desc-panel-abbr",
+    DESC_PANEL_PLAYER_CONTAINER: "desc-panel-player-container",
+    DESC_PANEL_PLAYER: "desc-panel-player",
+    DESC_PANEL_TEXT_CONTAINER: "desc-panel-desc-container",
+    DESC_PANEL_TEXT: "desc-panel-desc",
+
+    INFO_PANEL_CONTAINER: "info-panel-container",
+    INFO_PANEL: "info-panel",
+    INFO_PANEL_LEFT: "info-panel-left",
+    INFO_PANEL_RIGHT: "info-panel-right",
+    INFO_PANEL_LOGO_CONTAINER: "info-panel-logo-container",
+    INFO_PANEL_LOGO: "info-panel-logo",
+    INFO_PANEL_SCORE_CONTAINER: "info-panel-score-container",
+    INFO_PANEL_SCORE: "info-panel-score",
+    INFO_PANEL_SCORE_NUMBER: "info-panel-score-number",
+
+    CONTROL_PANEL_CONTAINER: "control-panel-container",
+    CONTROL_PANEL: "control-panel",
+    CONTROL_PANEL_BTN: "control-panel-btn",
+
+    RESULT_PANEL_CONTAINER: 'result-panel-container',
+    RESULT_PANEL: 'result-panel',
+    RESULT_PANEL_CONGRATULATION: "result-panel-congratulation",
+    RESULT_PANEL_SCORE: "result-panel-score",
+    RESULT_PANEL_REPEAT_CONTAINER: "result-panel-repeat-container",
+    RESULT_PANEL_REPEAT: "result-panel-repeat"
+}
